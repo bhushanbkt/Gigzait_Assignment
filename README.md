@@ -6,7 +6,7 @@
 ------------
 
 This project is a Python-based image processing system for analyzing nail images. The system loads a raw nail image and a labeled image, integrates the labeled image, and saves the resulting image. The system also provides an optional interactive labeling feature.
-
+![nail](https://github.com/bhushanbkt/Gigzait_Assignment/assets/91175596/c5e3bf22-7efb-44bb-8ebc-17735b5bc1ef)
 **Getting Started**
 ---------------
 
