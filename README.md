@@ -1,6 +1,7 @@
 **Nail Image Processing**
 ==========================
-!file:///Users/guddu/Downloads/seg.jpg
+![seg](https://github.com/bhushanbkt/Gigzait_Assignment/assets/91175596/2daf0a29-1a82-4a69-aaeb-1fe60c4093dc)
+
 **Overview**
 ------------
 
